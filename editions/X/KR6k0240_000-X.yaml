@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0240/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 供諸天科儀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1493.xml
+    old_id: X74n1493
+hash: sha256:3a9da5aacd97fc43da8f9a027ce999029052b4253b61ba49ca2e13cf63ed61b2

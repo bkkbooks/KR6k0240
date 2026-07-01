@@ -1,0 +1,142 @@
+canonical_identifier: bkk:krp/KR6k0240/v1
+canonical_location: https://kanripo.org/bkk/KR6k0240/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 供諸天科儀
+  identifiers:
+    alt_id:
+    - X74n1493
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1493.xml
+    old_id: X74n1493
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0240_000.yaml, hash: 'sha256:3a9da5aacd97fc43da8f9a027ce999029052b4253b61ba49ca2e13cf63ed61b2'}
+  - {seq: 1, filename: KR6k0240_001.yaml, hash: 'sha256:0467ce2051c536c327fe17578721d787d3d85b3e93504b58dd571ad3cdbd8761'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0240_001.markers.yaml, hash: 'sha256:30432915320ac29cbb38a53ea38c142d5759beeb6b6fd2cb3ee2fe2ef1a4af44'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9950
+  label: 供諸天科儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-2
+    span:
+    - body
+    - 549
+    - 549
+  label: 一淨水讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-3
+    span:
+    - body
+    - 557
+    - 557
+  label: 二誦呪灑淨壇場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-4
+    span:
+    - body
+    - 589
+    - 589
+  label: 三表白
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-5
+    span:
+    - body
+    - 766
+    - 766
+  label: 四禮請三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-6
+    span:
+    - body
+    - 999
+    - 999
+  label: 五奉請諸天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-7
+    span:
+    - body
+    - 2901
+    - 2901
+  label: 六誦呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-8
+    span:
+    - body
+    - 3128
+    - 3128
+  label: 七伸供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-9
+    span:
+    - body
+    - 3619
+    - 3619
+  label: 八念佛迴向發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0240_X_001-mulu-10
+    span:
+    - body
+    - 4161
+    - 4161
+  label: 附諸天行儀
+  type: mulu
+  level: 1
+hash: sha256:2aa34e2c9a6c511bf07e9a7005fbcd5a4636220e07644f13fdcab907c696d28c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
